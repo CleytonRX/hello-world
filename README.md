@@ -1,4 +1,4 @@
 # hello-world
 Just another repository - Tutorial
 
-Hello, this is a walking through Github Tutorial.
+Hello, this is a walking through Github's Tutorial.
